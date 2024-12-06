@@ -1,0 +1,119 @@
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.exe
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.deps.json
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.runtimeconfig.json
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.dll
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.pdb
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.paginaInicial.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.Properties.Resources.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.GenerateResource.cache
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.AssemblyInfoInputs.cache
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.AssemblyInfo.cs
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.CoreCompileInputs.cache
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.dll
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\refint\patitasOrgMILAV.dll
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.pdb
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.genruntimeconfig.cache
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\ref\patitasOrgMILAV.dll
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.login.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.AssemblyReference.cache
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.EncargadoVoluntarios.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.EncargadoControlAnimales.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmEncargadoVeterinaria.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmEncargadoVoluntarios.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frm_EncargadoEncargados.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.EncargadoReportes.resources
+C:\Users\gsp30\Desktop\Fundamentos de BD\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmEncargadoCampañas.resources
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.AssemblyReference.cache
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.EncargadoReportes.resources
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.paginaInicial.resources
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmEncargadoCampañas.resources
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.EncargadoControlAnimales.resources
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmEncargadoVeterinaria.resources
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmEncargadoVoluntarios.resources
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frmVoluntarios.resources
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.frm_EncargadoEncargados.resources
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.login.resources
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.Properties.Resources.resources
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.GenerateResource.cache
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.AssemblyInfoInputs.cache
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.AssemblyInfo.cs
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.csproj.CoreCompileInputs.cache
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.sourcelink.json
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\refint\patitasOrgMILAV.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.pdb
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.exe
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.deps.json
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.runtimeconfig.json
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\patitasOrgMILAV.pdb
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Confluent.Kafka.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\linux-x64\native\centos8-librdkafka.so
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\linux-x64\native\librdkafka.so
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x64\native\libcurl.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x64\native\librdkafka.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x64\native\zstd.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x86\native\libcurl.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x86\native\librdkafka.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x86\native\libssl-3.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x86\native\zstd.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasO.87E0FC65.Up2Date
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\patitasOrgMILAV.genruntimeconfig.cache
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\obj\Debug\net8.0-windows\ref\patitasOrgMILAV.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lizbe\Source\Repos\PatitasOrg_Final\patitasOrgMILAV\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
